@@ -2,7 +2,7 @@
     color: lightcyan;
     background-color: hotpink;
 }
-h1 :hover {
+h1:hover {
     color: darkgray;
 }
 img {
