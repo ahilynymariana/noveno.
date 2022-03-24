@@ -1,9 +1,9 @@
 * {
-    color:antiquewhite;
-    background-color: black;
+    color: lightcyan;
+    background-color: hotpink;
 }
 h1 :hover {
-    color:black;
+    color: darkgray;
 }
 img {
     height: 50%;
