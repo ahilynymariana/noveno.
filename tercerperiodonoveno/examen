@@ -1,42 +1,13 @@
-Funcion sumar ( ) {
-//crea variables num1 y num2//
-
+{
 let num1 = 0;
 let num2 = 0;
 let suma = 0;
-
-//mostar mensaje "por favor escribe un numero"//
-//guardar respuesta en num1//
-
+            
 num1 = prompt ("por favor escribe un numero:");
-
-//mostar mensaje "por favor escribe otro numero"//
-
 num2 = prompt ("por favor escribe otro numero:");
-
-//sumar el contenido de num1 y num2//
-//guardar el resultado en variable suma//
-
+            
 suma = num1 + num2;
-
-//mostrar el contenido de variable suma//
-
+            
 let resultado = alert ("el resultado es: " + suma);
-
+            
 }    
-
-        {
-
-            let num1 = 0;
-            let num2 = 0;
-            let suma = 0;
-            
-            num1 = prompt ("por favor escribe un numero:");
-            
-            num2 = prompt ("por favor escribe otro numero:");
-            
-            suma = num1 + num2;
-            
-            let resultado = alert ("el resultado es: " + suma);
-            
-            }    
