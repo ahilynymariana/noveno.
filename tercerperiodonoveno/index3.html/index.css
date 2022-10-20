@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "shalimar";
+    src: url("./tipografias/shalimar.ttf");
+}
+
+*{
+    color: blueviolet;
+    background-color: bisque;
+}
+h1 {
+    font-family: "Shalimar";
+}
+
+h1:hover {
+    color: rgb(19, 7, 7);
+}
+form {
+    width: 50%;
+    
+}
